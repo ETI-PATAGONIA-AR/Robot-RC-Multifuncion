@@ -59,7 +59,9 @@ Y todo esto utilizando una plataforma basada en Arduino Nano, Bluetooth, L298N, 
 ### DISPONIBLE: STL para impresion 3D, diagrama de circuitos, Sketch y mucho mas...
 
 📌 Proyecto desarrollado por ETI Patagonia
+
 📌 visita nuestra web: https://eti-patagonia-ar.github.io/ETI-Patagonia-ARG/index.html 
+
 📌Contacto: prof.martintorres@educ.ar
 
 Si te interesa la electrónica, Arduino, robótica y programación, suscribite al canal y acompañanos en los próximos desarrollos.
